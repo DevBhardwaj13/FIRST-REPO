@@ -1,0 +1,464 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>TEST</title>
+  <link rel="shortcut icon" href="tree-736885_1280.jpg" type="image/x-icon">
+</head>
+
+<body>
+  <h1>SAMSUNG</h1>
+  <h2>DEV BHARDWAJ</h2>
+  <h3>LAPTOP</h3>
+  <h4>WEBSITE</h4>
+  <h5>IPHONE</h5>
+  <h6>WATERMALLON</h6>
+  <h7>DEV BHARDWAJ</h7>
+  <p>My Name Is Dev</p>
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam eum velit eligendi quam harum voluptatibus
+    exercitationem, at quo minus minima labore, ut, sed accusamus quae.</p>
+  <a href="https://www.google.com/">This Is The Link</a>
+  <a
+    href="https://www.google.com/maps/dir//Phoenix+Tower+A,+Fifth+Floor,+Hitech+City+Main+Rd,+opposite+Trident+Hotel,+Hyderabad,+Telangana+500081/@17.4479158,78.2965369,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3bcb93ddddcf79ed:0x68b1509cba28e839!2m2!1d78.3789387!2d17.4479327?entry=ttu">MAPS</a>
+  <img
+    src="https://images.unsplash.com/photo-1488372759477-a7f4aa078cb6?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    alt="link image" height="400" width="450">
+  <img src="tree-736885_1280.jpg" alt="downloaded image" height="400" width="450">
+  <p>Lorem ipsum dolor,<br> sit amet consectetur adipisicing elit. Error, numquam, incidunt repellendus pariatur,
+    voluptatibus tempore quia itaque recusandae nobis blanditiis ea. Enim repudiandae maiores ad eligendi velit nulla
+    similique, eaque aperiam odit. Modi voluptas, repudiandae alias aspernatur quae veritatis error beatae maiores,
+    blanditiis laboriosam suscipit ducimus reprehenderit, optio temporibus porro cumque exercitationem corrupti amet.
+    Placeat voluptatum minus, cumque quia aperiam illo corporis amet quibusdam eum obcaecati necessitatibus debitis
+    reiciendis! Quae deserunt ex magnam quas hic commodi, saepe itaque, mollitia modi ducimus labore quos rem amet
+    asperiores aliquid debitis iusto soluta dolore eveniet? At, quaerat officia. Molestias natus quia architecto
+    distinctio!</p>
+  <hr>
+  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum vero itaque aperiam possimus tempora? Laborum ipsam
+    modi quis dolores illo iste omnis quibusdam deserunt, praesentium, dignissimos voluptatibus. Culpa id explicabo
+    magni, corrupti amet fuga tempore, earum eos, commodi expedita assumenda sunt eligendi. Dolore, sint fugiat eveniet
+    deleniti iste accusantium exercitationem enim, odit dolores nisi temporibus iusto explicabo, blanditiis veritatis
+    quia. Doloribus dolor laboriosam saepe ipsum at, sint esse odit animi enim velit est non voluptas corrupti dolorem.
+    Distinctio dolores eos deleniti commodi asperiores laboriosam ad sit quas aut recusandae vel cupiditate ratione,
+    suscipit totam illo sint obcaecati at earum dolorem non, quos assumenda ea optio sunt. Ipsum nemo, adipisci tempore
+    omnis porro architecto atque sequi neque ab similique dolore voluptatibus laboriosam officiis nihil dicta corporis
+    ex deserunt distinctio, saepe, doloremque minus delectus est. Molestiae, cumque laudantium. Neque, autem eveniet
+    odio magnam ex nostrum perferendis harum laboriosam veritatis distinctio facilis provident! Quisquam est ad cumque,
+    in aut ratione necessitatibus odio omnis at recusandae quam distinctio delectus minus exercitationem unde non eius
+    temporibus adipisci minima. Sint asperiores impedit, neque tempore optio nulla officiis alias ex qui nobis explicabo
+    pariatur est. Aliquid maiores eius, accusantium debitis corporis illum accusamus veniam beatae incidunt in neque
+    nemo deserunt optio quos, doloribus, amet voluptas quo pariatur iure voluptatibus repellat dolorum itaque magnam.
+    Magnam aspernatur quasi voluptas nesciunt. Dignissimos quae id quibusdam ipsam repellat et ad iure voluptatibus?
+    Rerum ea, beatae, voluptate facere nihil rem ullam, excepturi laborum soluta maiores eligendi hic alias pariatur
+    optio. Quas, maiores?</p>
+  <p style="color: #7d34eb;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius, rerum.</p>
+  <p><span style="color: rgb(0, 255, 38);">Lorem</span> ipsum dolor sit amet consectetur adipisicing elit. Ex
+    reprehenderit rerum quae iste ullam nisi velit natus eaque maiores amet?</p>
+  <p><span style="background-color: rgb(209, 227, 10); color: bisque; font-style: italic;">Lorem</span> ipsum dolor sit
+    amet consectetur adipisicing elit. Ex reprehenderit rerum quae iste ullam nisi velit natus eaque maiores amet?</p>
+  <table border="2">
+    <thead>
+      <th>DAY</th>
+      <th>1</th>
+      <th>2</th>
+      <th>3</th>
+    <tbody>
+      <tr>
+        <td>MONDAY</td>
+        <td>BIOLOGY</td>
+        <td>PHYSICS</td>
+        <td>CHEMESTRY</td>
+      </tr>
+      <tr>
+        <td>TUESDAY</td>
+        <td>HINDI</td>
+        <td>MATHS</td>
+        <td>ENGLISH</td>
+      </tr>
+      <tr>
+        <td>WEDNESDAY</td>
+        <td>SST</td>
+        <td>COMPUTER</td>
+        <td>HISTORY</td>
+      </tr>
+    </tbody>
+    </thead>
+
+  </table>
+  <table border="2">
+    <th>NO.</th>
+    <th>FULL NAME</th>
+    <th>POSITION</th>
+    <th>SALLARY</th>
+    <tr>
+      <th>1</th>
+      <th>BILL GATES</th>
+      <th>FOUNDER MICROSOFT</th>
+      <th>$1000</th>
+    </tr>
+    <tr>
+      <th>2</th>
+      <th>STEVE JOBS</th>
+      <th>FOUNDER APPLE</th>
+      <th>$1200</th>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>LARRY PAGE</td>
+      <td>FOUNDER GOOGLE</td>
+      <td>$1100</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>MARK ZUCKERBERG</td>
+      <td>FOUNDER FACEBOOK</td>
+      <td>$1300</td>
+    </tr>
+
+
+  </table>
+  <table border="2">
+    <thead>
+      <th>DAY</th>
+      <th>1</th>
+      <th>2</th>
+      <th>3</th>
+    <tbody>
+      <tr>
+        <td>MONDAY</td>
+        <td>BIOLOGY</td>
+        <td>PHYSICS</td>
+        <td>CHEMESTRY</td>
+      </tr>
+      <tr>
+        <td>TUESDAY</td>
+        <td>HINDI</td>
+        <td>MATHS</td>
+        <td>ENGLISH</td>
+      </tr>
+      <tr>
+        <td>WEDNESDAY</td>
+        <td colspan="3" align="center">SST</td>
+
+
+      </tr>
+    </tbody>
+    </thead>
+
+  </table>
+  <table border="2">
+    <thead>
+      <th>PRODUCT</th>
+      <th>FLAVOURS</th>
+    </thead>
+    <TBody>
+      <tr>
+        <TD rowspan="3">MILK</TD>
+        <TD>ALMOND</TD>
+      </tr>
+      <tr>
+
+        <td>MANGO</td>
+      </tr>
+      <tr>
+
+        <td>CHOCOLATE</td>
+      </tr>
+      <TR>
+        <TD colspan="2">THESE ARE THE EXCLUSIVE FLAVOURS</TD>
+
+      </TR>
+    </TBody>
+
+  </table>
+  <table border="2">
+    <tr>
+      <th colspan="6">Time Table</th>
+    </tr>
+    <tr>
+      <th rowspan="6">Hours</th>
+      <th>Mon</th>
+      <th>Tues</th>
+      <th>Wed</th>
+      <th>Thurs</th>
+      <th>Fri</th>
+
+    </tr>
+    <tr>
+      <td>SCIENCE</td>
+      <td>MATHS</td>
+      <td>SCIENCE</td>
+      <td>MATHS</td>
+      <td>ARTS</td>
+    </tr>
+    <tr>
+      <td>SCIENCE</td>
+      <td>MATHS</td>
+      <td>SCIENCE</td>
+      <td>MATHS</td>
+      <td>ARTS</td>
+    </tr>
+    <tr>
+      <th colspan="5" align="center">LUNCH</th>
+    </tr>
+    <tr>
+      <td>SCIENCE</td>
+      <td>MATHS</td>
+      <td>SCIENCE</td>
+      <td>MATHS</td>
+      <td rowspan="2">PORJECT</td>
+    </tr>
+    <td>SCIENCE</td>
+    <td>MATHS</td>
+    <td>SCIENCE</td>
+    <td>MATHS</td>
+
+  </table>
+
+  <h1>TIME TABLE</h1>
+  <table border="5" cellspacing="0" align="center">
+    <!--<caption>Timetable</caption>-->
+    <tr>
+      <td align="center" height="50" width="100"><br>
+        <b>Day/Period</b></br>
+      </td>
+      <td align="center" height="50" width="100">
+        <b>I<br>9:30-10:20</b>
+      </td>
+      <td align="center" height="50" width="100">
+        <b>II<br>10:20-11:10</b>
+      </td>
+      <td align="center" height="50" width="100">
+        <b>III<br>11:10-12:00</b>
+      </td>
+      <td align="center" height="50" width="100">
+        <b>12:00-12:40</b>
+      </td>
+      <td align="center" height="50" width="100">
+        <b>IV<br>12:40-1:30</b>
+      </td>
+      <td align="center" height="50" width="100">
+        <b>V<br>1:30-2:20</b>
+      </td>
+      <td align="center" height="50" width="100">
+        <b>VI<br>2:20-3:10</b>
+      </td>
+      <td align="center" height="50" width="100">
+        <b>VII<br>3:10-4:00</b>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" height="50">
+        <b>Monday</b>
+      </td>
+      <td align="center" height="50">Eng</td>
+      <td align="center" height="50">Mat</td>
+      <td align="center" height="50">Che</td>
+      <td rowspan="6" align="center" height="50">
+        <h2>L<br>U<br>N<br>C<br>H</h2>
+      </td>
+      <td colspan="3" align="center" height="50">LAB</td>
+      <td align="center" height="50">Phy</td>
+    </tr>
+    <tr>
+      <td align="center" height="50">
+        <b>Tuesday</b>
+      </td>
+      <td colspan="3" align="center" height="50">LAB
+      </td>
+      <td align="center" height="50">Eng</td>
+      <td align="center" height="50">Che</td>
+      <td align="center" height="50">Mat</td>
+      <td align="center" height="50">SPORTS</td>
+    </tr>
+    <tr>
+      <td align="center" height="50">
+        <b>Wednesday</b>
+      </td>
+      <td align="center" height="50">Mat</td>
+      <td align="center" height="50">phy</td>
+      <td align="center" height="50">Eng</td>
+      <td align="center" height="50">Che</td>
+      <td colspan="3" align="center" height="50">LIBRARY
+      </td>
+    </tr>
+    <tr>
+      <td align="center" height="50">
+        <b>Thursday</b>
+      </td>
+      <td align="center" height="50">Phy</td>
+      <td align="center" height="50">Eng</td>
+      <td align="center" height="50">Che</td>
+      <td colspan="3" align="center" height="50">LAB
+      </td>
+      <td align="center" height="50">Mat</td>
+    </tr>
+    <tr>
+      <td align="center" height="50">
+        <b>Friday</b>
+      </td>
+      <td colspan="3" align="center" height="50">LAB
+      </td>
+      <td align="center" height="50">Mat</td>
+      <td align="center" height="50">Che</td>
+      <td align="center" height="50">Eng</td>
+      <td align="center" height="50">Phy</td>
+    </tr>
+    <tr>
+      <td align="center" height="50">
+        <b>Saturday</b>
+      </td>
+      <td align="center" height="50">Eng</td>
+      <td align="center" height="50">Che</td>
+      <td align="center" height="50">Mat</td>
+      <td colspan="3" align="center" height="50">SEMINAR
+      </td>
+      <td align="center" height="50">SPORTS</td>
+    </tr>
+  </table>
+  <form>
+    <label for="First Name">First Name</label>
+    <input type="text" id="First Name" placeholder="ENTER YOUR FIRST NAME">
+    <label for="Last Name">Last Name</label>
+    <input type="text" id="Last Name" placeholder="ENTER YOUR LAST NAME">
+    <label for="checkbox1">HTML</label>
+    <input type="checkbox" id="checkbox1">
+    <label for="radio1">CSS</label>
+    <input type="radio" id="radio1" name="fav_lang">
+    <label for="radio2">Java</label>
+    <input type="radio" id="radio2" name="fav_lang">
+    <label for="button1"></label> <br> <br>
+    <input type="submit" id="button1">
+    <input type="color">
+    <input type="range">
+    <label for="Gender">Gender</label>
+    <select name="Gender">
+      <option value="option" selected disabled>Please Select The Gender</option>
+      <option value="Male">Male</option>
+      <option value="Female">Female</option>
+      <option value="Prefer Not To Say">Prefer Not To Say</option>
+    </select>
+    <textarea name="text" cols="30" rows="10" placeholder="Eneter The Text Here."></textarea>
+  </form>
+  
+    <h1>SIGN UP FORM EXAMPLE</h1>
+    <form action="">
+      <label for="First Name1">First Name* :</label>
+      <input type="text" id="First Name1">
+      <br>
+      <br>
+      <label for="Last Name1">Last Name* :</label>
+      <input type="text" id="Last Name1">
+      <br>
+      <br>
+      <label for="Organization">Organization :</label>
+      <input type="text" id="Organization">
+      <br>
+      <br>
+      <label for="Email Address">Email Address* :</label>
+      <input type="text" id="Email Address">
+      <br>
+      <br>
+      <label for="Work Phone">Work Phone :</label>
+      <input type="text" id="Work Phone">
+      <br>
+      <br>
+      <label for="Home Phone">Home Phone :</label>
+      <input type="text" id="Home Phone">
+      <br>
+      <br>
+      <label for="Cell Phone">Cell Phone :</label>
+      <input type="text" id="Cell Phone">
+      <br>
+      <br>
+      <label for="Fax">Fax :</label>
+      <input type="text" id="Fax">
+      <br>
+      <br>
+      <label for="Address1">Address1* :</label>
+      <input type="text" id="Address1">
+      <br>
+      <br>
+      <label for="Address2">Address2 :</label>
+      <input type="text" id="Address2">
+      <br>
+      <br>
+      <label for="City">City* :</label>
+      <input type="text" id="City">
+      <br>
+      <br>
+      <label for="State/Province">State/Province :</label>
+      <input type="text" id="State/Province">
+      <br>
+      <br>
+      <label for="Pin Code">Pin Code :</label>
+      <input type="text" id="Pin Code">
+      <br>
+      <br>
+      <label for="Country">Country* :</label>
+      <input type="text" id="Country">
+      <br>
+      <br>
+      * Required Fields
+      <input type="submit" id="button1" >
+      <a href="https://stackoverflow.com/">stackoverflow</a>
+    </form>
+
+    <h1>NOVELL SERVICES LOGIN</h1>
+    <form action="">
+      <label for="Username">Username :</label>
+      <input type="text" id="Username">
+      <br>
+      <br>
+      <label for="Password">Password :</label>
+      <input type="text" id="Password">
+      <br>
+      <br>
+      <label for="City Of Empolyment">City Of Empolyment :</label>
+      <input type="text" id="City Of Empolyment">
+      <br>
+      <br>
+      <label for="Web Server">Web Server</label>
+      <select name="Web Server" >
+        <option value="option" selected disabled>choose a server</option>
+        <option value="abc">abc</option>
+        <option value="xyz">xyz</option>
+      </select>
+      <br><br>
+      <p>please speciefy <br> your role:</p>
+      <label for="radio3">Admin</label>
+      <input type="radio" id="radio3" name="fav_lang">
+      <br><br>
+      <label for="radio4">Engineer</label>
+      <input type="radio" id="radio4" name="fav_lang">
+      <br><br>
+      <label for="radio5">Manager</label>
+      <input type="radio" id="radio5" name="fav_lang">
+      <br><br>
+      <label for="radio6">Guest</label>
+      <input type="radio" id="radio6" name="fav_lang">
+      <p>single sign-on <br> to the following:</p>
+      <label for="checkbox2">Mail</label>
+      <input type="checkbox" id="checkbox2">
+      <br><br>
+      <label for="checkbox3">Payroll</label>
+      <input type="checkbox" id="checkbox3">
+      <br><br>
+      <label for="checkbox4">Self Servise</label>
+      <input type="checkbox" id="checkbox4">
+      <br><br>
+      <label for="button2"></label>
+      <input type="submit" id="button2">
+      <label for="button3"></label>
+      <input type="reset" id="button3">
+    </form>
+     <audio src="Kuware Rahab.mp3" type="audio/mp3" controls></audio>
+  <video src="here's a 10 second joke because you're busy (1080p).mp4" type="video/mp4" width="300px" height="800px" controls></video>
+<iframe src="https://www.waze.com/live-map/"></iframe>
+<iframe src="https://www.youtube.com/embed/qqwc_5IRXeY"></iframe>
+    
+  </tr>
+</body>
+
+</html>
